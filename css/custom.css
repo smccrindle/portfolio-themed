@@ -1,0 +1,43 @@
+/* CUSTOM VISUAL EFFECTS */
+
+/* STEP 6: Set the base font for body copy */
+
+
+/* STEP 8: Set primary and secondary theme colours */
+
+/* STEP 9: Set default text colour and background colour of the page body */
+
+/* STEP 10: Add a few more variables for Bootstrap colour classes, then proceed to index.html for next step */
+
+
+/* STEP 7: Set the font for the headings */
+
+
+
+/* Other Details
+-------------------------------------------------- */
+
+/* Fine-tuning hero images */
+.hero-carousel-img {
+	height: 450px;
+	object-fit: cover;
+}
+
+/* Embedded playable game background */
+.arcade-bg {
+	background-color: #eeeeee;
+}
+
+/* Back to top button */
+#backToTop {
+	display: inline-block;
+	width: 50px; 
+	height: 50px;
+	transform: rotate(-90deg);
+}
+
+/* Profile pic */
+#profilePic {
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+}
